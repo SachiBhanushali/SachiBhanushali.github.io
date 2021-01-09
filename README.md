@@ -6,4 +6,4 @@ Not for production use currently.
 
 # Maintainers
 
-https://github.co/amanjiofficial
+https://github.com/amanjiofficial

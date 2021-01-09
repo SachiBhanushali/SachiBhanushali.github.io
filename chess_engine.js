@@ -1,5 +1,3 @@
-
-
 var board = null
 var newGame = new Chess()
 
@@ -46,4 +44,4 @@ var config = {
   onDrop: onDrop,
   onSnapEnd: onSnapEnd
 }
-board = Chessboard("myBoard", config)
+board = Chessboard('myBoard', config)
